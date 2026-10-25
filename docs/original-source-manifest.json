@@ -1,0 +1,160 @@
+{
+  "description": "Unmodified original rendering modules, vendored dependencies and font. Player and export tools are adapted for this public release.",
+  "files": [
+    {
+      "path": "film/apollo-descent/descent-graphics.js",
+      "bytes": 14241,
+      "sha256": "998e471b98ad9af604aa3cebcf3004cfac0721282d0b8512876682f7c5026ecc"
+    },
+    {
+      "path": "film/apollo-descent/descent.js",
+      "bytes": 18229,
+      "sha256": "a9238c42045454a31b65b940022c1046b2755f67fad4e0982cf37e3191d5054f"
+    },
+    {
+      "path": "film/apollo-descent/engineering-graphics.js",
+      "bytes": 5436,
+      "sha256": "2a1332595be7e27ae0ed0ac59da0b4d832e9cbaad8a59e77d90f5ee5098cf704"
+    },
+    {
+      "path": "film/apollo-descent/timing.js",
+      "bytes": 977,
+      "sha256": "d89b44520a970d98d011ff76328d03f2b4853c4670bfa27d6aef8c87fc6cd332"
+    },
+    {
+      "path": "film/apollo-finale/finale-graphics.js",
+      "bytes": 13153,
+      "sha256": "63eb7ba938585ddcf24a869be06cf238bfec64b6a177e8d04d404b5bdb7e2084"
+    },
+    {
+      "path": "film/apollo-finale/finale-space.js",
+      "bytes": 35918,
+      "sha256": "29b8577ad014f23e81ab8c7af2a6272cfeb0074081ecc6daf4d773198bf50b40"
+    },
+    {
+      "path": "film/apollo-finale/main.js",
+      "bytes": 9030,
+      "sha256": "f6f70faf1ce2e90b876e1ab8ef33ab543c254d38355c367b75548b0b40aa6c00"
+    },
+    {
+      "path": "film/apollo-finale/timing.js",
+      "bytes": 4379,
+      "sha256": "7473d5c4e41febfccece166eb1ebc129ab2fc8b23773564eae9dd12442f41aea"
+    },
+    {
+      "path": "film/apollo-first-go/extension-graphics.js",
+      "bytes": 5668,
+      "sha256": "54d3d1fe64672b2dae79ed25341c23f7f845bac294d263da2cdb89fa455a3c2f"
+    },
+    {
+      "path": "film/apollo-first-go/poll-graphics.js",
+      "bytes": 18227,
+      "sha256": "4dfac941e62c98c6a6cd1bc0736ab20f13e8792c5567df9096bc578d85768d02"
+    },
+    {
+      "path": "film/apollo-first-go/preparation.js",
+      "bytes": 21578,
+      "sha256": "14f67fe53731246be8c4d308a04f6c5c33ae43cdb4163e68fc0cebec64352e45"
+    },
+    {
+      "path": "film/apollo-first-go/timing.js",
+      "bytes": 2225,
+      "sha256": "73f4ab85a2e500d084d0df81e2c2688720de5d402a77ae895ca7b95e8b747711"
+    },
+    {
+      "path": "film/apollo-go/control-graphics.js",
+      "bytes": 19674,
+      "sha256": "2822ff79d436f04eee098b24daef06102c20211bb049e580087cdb2b5d89faac"
+    },
+    {
+      "path": "film/apollo-go/distance.js",
+      "bytes": 13231,
+      "sha256": "5e1c6b5237c21b082ada2267e45a22b3e373ca56cae89c8bd52165cc99eef232"
+    },
+    {
+      "path": "film/apollo-go/lunar.js",
+      "bytes": 27617,
+      "sha256": "211b936adbc3940648cf6f0caff5fc36cddef35b08ce1cafccae707645d14cea"
+    },
+    {
+      "path": "film/apollo-go/mission-graphics.js",
+      "bytes": 5956,
+      "sha256": "7327e03e68dececb0781db2346e7b81880fe1e4791c48f13d3e1d2e41ceda97c"
+    },
+    {
+      "path": "film/apollo-go/timing.js",
+      "bytes": 1173,
+      "sha256": "a50921c42b14ca88516ec7f0c1b155d7b503d98f35b0a4a203dabc59080bad32"
+    },
+    {
+      "path": "film/apollo-landing/landing-graphics.js",
+      "bytes": 11883,
+      "sha256": "f3a3ebb9fb7f19c2599b0735a31bcb6b173bfdb05544f75fc17aa7f9e3b5a58b"
+    },
+    {
+      "path": "film/apollo-landing/landing-space.js",
+      "bytes": 19204,
+      "sha256": "e11ce4adf3ba55dba2fe84d46548d4f75075a278efb0eb07dcb661c5d6b0cbad"
+    },
+    {
+      "path": "film/apollo-landing/timing.js",
+      "bytes": 3253,
+      "sha256": "66b963b073a9aa284fa3972aa79005b58dc1a615a28cf338431585d7999f9f36"
+    },
+    {
+      "path": "film/apollo-second-go/decision-graphics.js",
+      "bytes": 20658,
+      "sha256": "740b427d1e0780882f5aa7952d488a5a25f2be7dda3f1eb7c626ec32618e097f"
+    },
+    {
+      "path": "film/apollo-second-go/decision-space.js",
+      "bytes": 18522,
+      "sha256": "6b74f797a36c917632150944ede932760485bc5672b77ddacd46f2eb5c03e2b3"
+    },
+    {
+      "path": "film/apollo-second-go/timing.js",
+      "bytes": 3137,
+      "sha256": "cfb277f00e7aba79be2a7feb954ce53394cc40c9d8b1bc8efbbf62d33e2033e3"
+    },
+    {
+      "path": "film/apollo-stay/control-space.js",
+      "bytes": 21842,
+      "sha256": "b37844ccf4380a326f1ce83710c20ac849c1185b8eb0ddcb6dd7f6feb8d8c349"
+    },
+    {
+      "path": "film/apollo-stay/stay-graphics.js",
+      "bytes": 14181,
+      "sha256": "33f2bb1616cabc05379124bbdce217e6d2cab7f1e6b51dc508e1be14be5d2e4d"
+    },
+    {
+      "path": "film/apollo-stay/timing.js",
+      "bytes": 2856,
+      "sha256": "b261ea746d12f6e25b230e63bfe74941c3fa1ec8b363bf61543c809273ea1e7f"
+    },
+    {
+      "path": "film/vendor/three.core.js",
+      "bytes": 1403455,
+      "sha256": "eb077d2417f61d3e6d9264c317cabc4ea35769ed6b0ab533067292a550784c20"
+    },
+    {
+      "path": "film/vendor/three.module.js",
+      "bytes": 603113,
+      "sha256": "c8211c69345d2e9949dc7a8ac969380497aa0600a5a8ac6a459c8cd02dd9cb8a"
+    },
+    {
+      "path": "film/vendor/THREE-LICENSE.txt",
+      "bytes": 1081,
+      "sha256": "bfe119ea4fd413f5f7ca3fcd63adb0c4a073ed39daa2fe7d3e6b769e21272601"
+    },
+    {
+      "path": "film/assets/Archivo.ttf",
+      "bytes": 658596,
+      "sha256": "0e094a7d3c7c4c25cf1310c4b30014f1dae9332220b1c2c88f4fa996f0b05053"
+    },
+    {
+      "path": "film/assets/Archivo-OFL.txt",
+      "bytes": 4388,
+      "sha256": "108b4e57c9c796d3d38d0428ca7ee39de47ad93187302718d9b2d8864b9b716b"
+    }
+  ]
+}

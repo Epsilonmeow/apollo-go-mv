@@ -1,0 +1,16 @@
+{
+  "name": "apollo-go-mv",
+  "version": "1.0.0",
+  "description": "Apollo — A World Away: a procedural browser-rendered concept music video",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "start": "node tools/server.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "check": "node tools/check.mjs",
+    "render": "node tools/render.mjs"
+  },
+  "devDependencies": { "playwright": "1.62.1" }
+}

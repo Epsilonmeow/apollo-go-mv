@@ -1,0 +1,17 @@
+node_modules/
+.npm-cache/
+output/
+local-media/
+.env
+.env.*
+*.log
+*.wav
+*.mp3
+*.flac
+*.m4a
+*.ogg
+*.ncm
+*.mp4
+*.webm
+.DS_Store
+Thumbs.db
